@@ -3,7 +3,7 @@
 WeatherApp is a simple and user-friendly mobile application that provides real-time weather updates for cities worldwide. Using the WeatherAPI, the app offers accurate daily weather information, including temperature, humidity, and wind speed.
 
 ---
-![Akış Şeması](https://github.com/sudesuvar/weatherApp/img/1.jpg)
+![Akış Şeması](https://github.com/sudesuvar/weatherApp/blob/main/img/1.jpg)
 
 
 ## Features
